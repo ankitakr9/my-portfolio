@@ -22,7 +22,7 @@ const projects = [
   {
     title: "JobPortal website",
     description:
-      "Job portal web app for job search and recruitment with authentication and role-based features using MERN stack.",
+      "This poject is currently working in the process, Job portal web app for job search and recruitment with authentication and role-based features using MERN stack.",
     image: "/projects/project3.png",
     tags: ["React", "Nodejs", "Express", "Tailwind", "Mongodb"],
     link: "#",
@@ -32,7 +32,7 @@ const projects = [
   {
     title: "Version Control System",
     description:
-      "Built a basic version control system to track file changes and manage version history, inspired by Git.",
+      "This project is in working process,Building a basic version control system to track file changes and manage version history, inspired by Git.",
     image: "/projects/project4.png",
     tags: ["React", "Nodejs", "MongoDB", "Express"],
     link: "#",
